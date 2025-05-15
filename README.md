@@ -2,6 +2,8 @@
 
 Below you will find information regarding the different repos of this account.
 
+- [**Mémoire de fin d'étude_EPF**](https://github.com/Tristan-Bourhis/Memoire-EPF/tree/main) : 	Master's dissertation automation of data analysis and redistribution
+
 - [**Runlight-AI**](https://github.com/Tristan-Bourhis/Runlight-AI) : Artificial intelligence models created in Python using neural networks, polynomial regressions and SVM (support-vector machine).
 
 - [**Projet-Force**](https://github.com/Tristan-Bourhis/Projet-force) : Angular (Typescript) web application allowing you to follow a power-lifting sports training program and providing access to helping tools.
