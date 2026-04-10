@@ -4,7 +4,7 @@ I am a French software engineer currently specializing in **Data Science** and *
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin\&style=for-the-badge)](https://www.linkedin.com/in/tristan-bourhis-601533213/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tristan-Bourhis&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tristan-Bourhis&show_icons=true&cache_seconds=86400)
 ---
 
 ## Technologies & Tools
