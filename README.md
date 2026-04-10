@@ -4,7 +4,6 @@ I am a French software engineer currently specializing in **Data Science** and *
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin\&style=for-the-badge)](https://www.linkedin.com/in/tristan-bourhis-601533213/)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Tristan-Bourhis)
 ---
 
 ## Technologies & Tools
