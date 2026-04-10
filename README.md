@@ -1,6 +1,6 @@
 # Tristan Bourhis
 
-I am a French software engineer currently specializing in **Data Science** and **Artificial Intelligence**, working as an apprentice at BNP Paribas. 
+I am a French IT engineer currently specializing in **Data Science** and **Artificial Intelligence**, working as an apprentice at BNP Paribas. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin\&style=for-the-badge)](https://www.linkedin.com/in/tristan-bourhis-601533213/)
 
